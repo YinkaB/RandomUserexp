@@ -1,2 +1,2 @@
 # RandomUserexp
-you can get different random users using and Api.
+you can get different random users using an Api.
